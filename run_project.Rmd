@@ -1,7 +1,7 @@
 ---
-title: "Coursera Regression Models Course Project"
-author: "Alaettin Serhan Mete"
-date: "10/24/2017"
+title: "Project"
+author: "mohamed salama"
+date: "8/7/2020"
 output: pdf_document
 geometry: margin=0.5in
 ---
